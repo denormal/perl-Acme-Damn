@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 use Exporter;
-use DynaLoader  qw( AUTOLOAD );
+use DynaLoader;
 
 use vars qw( $VERSION @ISA @EXPORT @EXPORT_OK );
 
